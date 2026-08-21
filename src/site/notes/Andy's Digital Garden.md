@@ -4,4 +4,4 @@
 
 Some text to start my garden with
 
-[[What is a Digital Garden\|What is a Digital Garden]]
+[[What is a Digital Garden?\|What is a Digital Garden?]]
